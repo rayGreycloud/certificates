@@ -1,5 +1,9 @@
 ### My Udemy Coursework 
 
+(2018)
+
+Ethereum and Solidity: Complete Developer's Guide
+
 (2017)
 
 Advanced CSS and Sass, Jonas Schmedtmann
