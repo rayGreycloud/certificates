@@ -1,6 +1,7 @@
 ### My Udemy Coursework 
 
 (2018)
+Become Blockchain Developer with Ethereum and Solidity, Sebastien Arbogast
 
 Ethereum and Solidity: Complete Developer's Guide, Stephen Grider
 
