@@ -1,6 +1,7 @@
-### My Udemy Coursework 
+### My Udemy Coursework
 
 (2018)
+
 Become Blockchain Developer with Ethereum and Solidity, Sebastien Arbogast
 
 Ethereum and Solidity: Complete Developer's Guide, Stephen Grider
@@ -27,7 +28,7 @@ The Complete Developer's Guide to MongoDB, Stephen Grider
 
 GraphQL with React, Stephen Grider
 
-Webpack 2: The Complete Developer's Guide, Stephen Grider 
+Webpack 2: The Complete Developer's Guide, Stephen Grider
 
 (2016)
 
@@ -55,6 +56,6 @@ Learn and Understand NodeJS, Anthony Alicea
 
 JavaScript: Understanding the Weird Parts, Anthony Alicea
 
-(2015) 
+(2015)
 
 The Web Developer Bootcamp, Colt Steele
