@@ -1,6 +1,11 @@
 ### My Udemy Coursework
 
 (2018)
+Modern Javascript From The Beginning, Brad Traversy
+
+MERN Stack Front to Back, Brad Traversy
+
+Node JS: Advanced Concepts, Stephen Grider
 
 Become Blockchain Developer with Ethereum and Solidity, Sebastien Arbogast
 
@@ -55,7 +60,5 @@ Build an Amazon Clone: Nodejs + MongoDb + Stripe Payment, Arash Yahya
 Learn and Understand NodeJS, Anthony Alicea
 
 JavaScript: Understanding the Weird Parts, Anthony Alicea
-
-(2015)
 
 The Web Developer Bootcamp, Colt Steele
